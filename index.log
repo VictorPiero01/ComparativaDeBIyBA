@@ -1,0 +1,396 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.30)  31 MAR 2021 22:15
+entering extended mode
+**./index.tex
+(index.tex
+LaTeX2e <2020-10-01> patch level 1
+L3 programming layer <2020-10-05> xparse <2020-03-03>
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/elsarticle\elsa
+rticle.cls"
+Document Class: elsarticle 2019/02/25, 3.2: Elsevier Ltd
+\@bls=\dimen138
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cl
+s"
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+"
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen139
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cx.sty"
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval
+.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cs.sty"
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.s
+ty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\gr
+aphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pd
+ftex.def"
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+)
+\c@tnote=\count183
+\c@fnote=\count184
+\c@cnote=\count185
+\c@ead=\count186
+\c@author=\count187
+\@eadauthor=\toks16
+\c@affn=\count188
+\absbox=\box47
+\elsarticlehighlightsbox=\box48
+\elsarticlegrabsbox=\box49
+\keybox=\box50
+\Columnwidth=\dimen142
+\space@left=\dimen143
+\els@boxa=\box51
+\els@boxb=\box52
+\leftMargin=\dimen144
+\@enLab=\toks17
+\@sep=\skip49
+\@@sep=\skip50
+ (index.spl)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.s
+ty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count189
+)
+\splwrite=\write3
+\openout3 = `index.spl'.
+
+\appnamewidth=\dimen145
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.s
+ty"
+Package: babel 2020/10/06 3.50 The Babel package
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.d
+ef"
+File: babel.def 2020/10/06 3.50 Babel common definitions
+\babel@savecnt=\count190
+\U@D=\dimen146
+\l@babelnohyphens=\language79
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabe
+l.def")
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count191
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.c
+fg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\s
+panish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+\es@quottoks=\toks18
+\es@quotdepth=\count192
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+))
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssym
+b.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfon
+ts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks19
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/lineno\lineno.s
+ty"
+Package: lineno 2005/11/02 line numbers on paragraphs v4.41
+\linenopenalty=\count193
+\output=\toks20
+\linenoprevgraf=\count194
+\linenumbersep=\dimen147
+\linenumberwidth=\dimen148
+\c@linenumber=\count195
+\c@pagewiselinenumber=\count196
+\c@LN@truepage=\count197
+\c@internallinenumber=\count198
+\c@internallinenumbers=\count199
+\quotelinenumbersep=\dimen149
+\bframerule=\dimen150
+\bframesep=\dimen151
+\bframebox=\box53
+LaTeX Info: Redefining \\ on input line 3056.
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.s
+ty"
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks21
+\inpenc@posthook=\toks22
+) ("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty"
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
+kend-pdftex.def"
+File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
+\l__kernel_color_stack_int=\count266
+\l__pdf_internal_box=\box54
+) (index.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+)
+\openout1 = `index.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
+p-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count267
+\scratchdimen=\dimen152
+\scratchbox=\box55
+\nofMPsegments=\count268
+\nofMParguments=\count269
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count270
+\MPscratchDim=\dimen153
+\MPnumerator=\count271
+\makeMPintoPDFobject=\count272
+\everyMPtoPDFconversion=\toks24
+)
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
+stopdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Info: Redefining \. on input line 12.
+LaTeX Info: Redefining \% on input line 12.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
+
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.f
+d"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 37.
+
+
+("C:\Users\VICTOR PIERO\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.f
+d"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 41--47
+
+ []
+
+
+Overfull \hbox (2.61108pt too wide) has occurred while \output is active
+[] 
+ []
+
+[1
+
+
+{C:/Users/VICTOR PIERO/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 51--60
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--60
+
+ []
+
+
+Package natbib Warning: Citation `referenciaestrella2' on page 2 undefined on i
+nput line 75.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--81
+
+ []
+
+
+Package natbib Warning: Citation `referenciaestrella3' on page 2 undefined on i
+nput line 83.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
+
+ []
+
+[2]
+
+Package natbib Warning: Citation `referenciaestrella3' on page 3 undefined on i
+nput line 98.
+
+
+Package natbib Warning: Citation `referenciaestrella1' on page 3 undefined on i
+nput line 107.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+[3]
+<./img/componentes.jpg, id=17, 498.36188pt x 405.76593pt>
+File: ./img/componentes.jpg Graphic file (type jpg)
+<use ./img/componentes.jpg>
+Package pdftex.def Info: ./img/componentes.jpg  used on input line 111.
+(pdftex.def)             Requested size: 341.43306pt x 278.00371pt.
+ [4 <./img/componentes.jpg>]
+
+Package natbib Warning: Citation `referenciarobles3' on page 5 undefined on inp
+ut line 132.
+
+<./img/tomadedecisiones.jpg, id=22, 633.86812pt x 502.12593pt>
+File: ./img/tomadedecisiones.jpg Graphic file (type jpg)
+<use ./img/tomadedecisiones.jpg>
+Package pdftex.def Info: ./img/tomadedecisiones.jpg  used on input line 137.
+(pdftex.def)             Requested size: 341.43306pt x 270.47739pt.
+[5] [6 <./img/tomadedecisiones.jpg>] [7]
+
+Package natbib Warning: Citation `referenciasosa1' on page 8 undefined on input
+ line 207.
+
+
+Package natbib Warning: Citation `referenciasosa3' on page 8 undefined on input
+ line 208.
+
+
+Package natbib Warning: Citation `referenciasosa2' on page 8 undefined on input
+ line 209.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--211
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 206--211
+
+ []
+
+[8] [9]
+
+Package natbib Warning: Citation `referenciasosa1' on page 10 undefined on inpu
+t line 224.
+
+<./img/framework.jpg, id=39, 243.15843pt x 353.82187pt>
+File: ./img/framework.jpg Graphic file (type jpg)
+<use ./img/framework.jpg>
+Package pdftex.def Info: ./img/framework.jpg  used on input line 227.
+(pdftex.def)             Requested size: 195.53992pt x 284.52756pt.
+[10 <./img/framework.jpg>]
+Overfull \hbox (15.84825pt too wide) in paragraph at lines 241--243
+[]\OT1/cmr/bx/n/12 Capa de Anali-sis: \OT1/cmr/m/n/12 En es-ta ca-pa, los da-t
+os del Da-ta Wa-rehou-se/DataMart
+ []
+
+[11]
+<./img/balance.png, id=47, 903.375pt x 939.51pt>
+File: ./img/balance.png Graphic file (type png)
+<use ./img/balance.png>
+Package pdftex.def Info: ./img/balance.png  used on input line 253.
+(pdftex.def)             Requested size: 199.16928pt x 207.13724pt.
+ [12 <./img/balance.png>]
+
+Package natbib Warning: Citation `referenciajohanna1' on page 13 undefined on i
+nput line 264.
+
+[13] [14] (index.bbl)
+
+Package natbib Warning: There were undefined citations.
+
+[15] (index.aux
+LaTeX Info: Redefining \. on input line 8.
+LaTeX Info: Redefining \% on input line 8.
+) ) 
+Here is how much of TeX's memory you used:
+ 3808 strings out of 480257
+ 53118 string characters out of 2878097
+ 338923 words of memory out of 3000000
+ 20311 multiletter control sequences out of 15000+200000
+ 542027 words of font info for 54 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,6n,77p,663b,392s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\VICTOR PIERO\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
+600\tcrm1200.pk><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmbx12.pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/VICTOR PIERO/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/VICT
+OR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb
+><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmr17.pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmti10.pfb><C:/Users/VICTOR PIERO/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on index.pdf (15 pages, 436450 bytes).
+PDF statistics:
+ 90 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
